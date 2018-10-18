@@ -1,0 +1,6 @@
+model_checkpoint_path: "/data/nanopore/dL_network/network/dnn_train_model/dnn_tf_model/nanopore_classifier.ckpt-21100"
+all_model_checkpoint_paths: "/data/nanopore/dL_network/network/dnn_train_model/dnn_tf_model/nanopore_classifier.ckpt-13700"
+all_model_checkpoint_paths: "/data/nanopore/dL_network/network/dnn_train_model/dnn_tf_model/nanopore_classifier.ckpt-17800"
+all_model_checkpoint_paths: "/data/nanopore/dL_network/network/dnn_train_model/dnn_tf_model/nanopore_classifier.ckpt-18600"
+all_model_checkpoint_paths: "/data/nanopore/dL_network/network/dnn_train_model/dnn_tf_model/nanopore_classifier.ckpt-21000"
+all_model_checkpoint_paths: "/data/nanopore/dL_network/network/dnn_train_model/dnn_tf_model/nanopore_classifier.ckpt-21100"

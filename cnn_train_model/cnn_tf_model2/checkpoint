@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/nanopore/dL_network/network/cnn_train_model/cnn_tf_model2/nanopore_classifier.ckpt-100"
+all_model_checkpoint_paths: "/data/nanopore/dL_network/network/cnn_train_model/cnn_tf_model2/nanopore_classifier.ckpt-100"
